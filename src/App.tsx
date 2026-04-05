@@ -167,7 +167,7 @@ export default function App() {
               >
                 <div className="aspect-[4/5] w-full max-w-md mx-auto rounded-[2rem] overflow-hidden relative shadow-2xl">
                   <img
-                    src="_normal.webp"
+                    src="normal.webp"
                     alt="Эстетика медицины"
                     className="object-cover w-full h-full"
                     referrerPolicy="no-referrer"
